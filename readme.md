@@ -9,7 +9,7 @@
 <img width="100px" src = "Image2.PNG">
 
 <h3>Output</h3>
-<img src = "desc.PNG">
+<img src = "Desc.PNG">
 
 
 <h3>Keypoint Matches</h3>
